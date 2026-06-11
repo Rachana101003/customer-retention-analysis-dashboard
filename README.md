@@ -1,7 +1,8 @@
 # Customer Retention Analysis Dashboard
 
 ## Dashboard Preview
-![Dashboard] (dashboard_screenshot.png)
+
+![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## Project Overview
 This project analyzes customer churn and retention using Python and Power BI.
