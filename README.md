@@ -1,4 +1,6 @@
 # Customer Retention Analysis Dashboard
+## Dashboard Preview
+![Dashboard] (dashboard_screenshot.png)
 
 ## Project Overview
 This project analyzes customer churn and retention using Python and Power BI.
@@ -19,6 +21,8 @@ Telco Customer Churn Dataset
 - High-value customers are more likely to be retained.
 - Average monthly charge: 64.80
 - Average tenure: 32.42 months
+
+## Total Revenue generated: 16.06M
 
 ## Dashboard KPIs
 - Total Customers
