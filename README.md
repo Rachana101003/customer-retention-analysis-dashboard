@@ -1,4 +1,5 @@
 # Customer Retention Analysis Dashboard
+
 ## Dashboard Preview
 ![Dashboard] (dashboard_screenshot.png)
 
